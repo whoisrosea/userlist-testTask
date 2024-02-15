@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkemilus=self.webpackChunkemilus||[]).push([[948],{5948:(e,s,u)=>{u.r(s),u.d(s,{default:()=>l});u(9060);var c=u(2496);const l=()=>(0,c.jsx)("div",{children:"Home component works!"})}}]);
+//# sourceMappingURL=948.a3f07a8d.chunk.js.map
